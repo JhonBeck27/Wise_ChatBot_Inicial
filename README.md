@@ -115,4 +115,4 @@ Imagens:
 ![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094317.png)
 ![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094327.png)
 ![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094447.png)
-![image alt]()
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20105759.png)
