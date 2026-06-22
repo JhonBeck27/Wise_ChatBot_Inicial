@@ -1,6 +1,8 @@
+# Wise_ChatBot_Inicial
+
 # 🍫 Wisenewera_bot — Assistente de RH da Chocolatech
 
-> Agente inteligente de Recursos Humanos construído com n8n, Cohere e Telegram. Responde dúvidas dos colaboradores da Chocolatech com precisão, contexto e segurança.
+> Agente inteligente de Recursos Humanos construído com n8n, IA generativa e Telegram. Responde dúvidas dos colaboradores da Chocolatech com precisão, contexto e segurança.
 
 ---
 
@@ -8,13 +10,12 @@
 
 O **Wisenewera_bot** é o assistente oficial de RH da **Chocolatech**. Ele atende colaboradores diretamente pelo Telegram, respondendo dúvidas como:
 
-- 🗓️ Políticas de férias 
-- 📄 Dúvidas sobre contrato
+- 🗓️ Políticas de férias, folgas e feriados
 - 🕐 Jornada de trabalho, banco de horas e ponto
 - 📢 Comunicados e políticas internas da empresa
 - ❓ Qualquer dúvida relacionada ao setor de RH
 
-> ⚠️ O bot responde **apenas** perguntas relacionadas ao RH da Chocolatech. Perguntas fora desse escopo são bloqueadas pelos guardrails.
+> ⚠️ O bot responde **apenas** perguntas relacionadas ao RH da Chocolatech. Perguntas fora desse escopo não são respondidas.
 
 ---
 
@@ -104,7 +105,14 @@ Como cada colaborador tem sua própria sessão de conversa, garantindo que o bot
 - O banco MySQL está hospedado no **Railway** — as credenciais de conexão ficam no painel do projeto em railway.app
 - O webhook do Telegram precisa de uma URL pública (use ngrok para testes locais)
 - O bot está configurado para atender **somente** dúvidas de RH da Chocolatech
-
 ---
 
-*Wisenewera_bot
+*Wisenewera_bot 
+Imagens:
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094231.png) 
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094249.png)
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094304.png)
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094317.png)
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094327.png)
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094447.png)
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20105759.png)
