@@ -108,3 +108,5 @@ Como cada colaborador tem sua própria sessão de conversa, garantindo que o bot
 ---
 
 *Wisenewera_bot 
+Imagens:
+![image alt](https://github.com/JhonBeck27/Wise_ChatBot_Inicial/blob/main/Captura%20de%20tela%202026-06-22%20094231.png) 
